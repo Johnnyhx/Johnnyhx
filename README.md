@@ -13,18 +13,10 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ## 🛠️ Technologies & Tools
 
 - **Languages:** 
-  - ![C](https://img.shields.io/badge/-C-3776AB?style=flat&logo=python&logoColor=white)
-  - ![Rust](https://img.shields.io/badge/-Rust-3776AB?style=flat&logo=python&logoColor=white)
-  - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+  - ![C](https://img.shields.io/badge/-C-3776AB?style=flat&logo=python&logoColor=white) - ![Rust](https://img.shields.io/badge/-Rust-3776AB?style=flat&logo=python&logoColor=white) - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
-- **Frameworks/Libraries:** 
-  - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
-  - ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-  - ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 - **Tools:** 
-  - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-  - ![Nvim](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-  - ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+  - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) - ![Nvim](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) - ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ## 📈 GitHub Stats
 
@@ -33,8 +25,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ## 🔗 Connect with Me
 
 - [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:johnnyhx666@gmail.com)
-
-Feel free to reach out if you want to collaborate on a project or just want to chat about tech!
 
 ---
 
