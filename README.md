@@ -10,14 +10,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - 💬 Ask me about anything related to programming, I'd love to help
 - ⚡ Fun fact: I enjoy hiking and reading tech blogs in my free time
 
-## 🛠️ Technologies & Tools
-
-- **Languages:** 
-  - ![C](https://img.shields.io/badge/-C-3776AB?style=flat&logo=python&logoColor=white) - ![Rust](https://img.shields.io/badge/-Rust-3776AB?style=flat&logo=python&logoColor=white) - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-
-- **Tools:** 
-  - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) - ![Nvim](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) - ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
 ## 📈 GitHub Stats
 
 ![Johnnyhx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Johnnyhx&show_icons=true&theme=radical)
